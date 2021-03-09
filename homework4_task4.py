@@ -22,3 +22,4 @@ for index in range(len(array)):
         temp_el = array[index]
 
 print(f'Наимболее часто встречающееся число: {temp_el}, оно встречается {temp_count} раз')
+
